@@ -1,0 +1,51 @@
+# llms.txt — supplemental content map for this site.
+# This is optional metadata. No AI system is guaranteed to read, honor,
+# or cite it; it is provided only as a concise, accurate index of what
+# this page contains, for tools that choose to use it.
+
+# Eishit Nigam — Portfolio
+
+> AI Product Engineer and systems architect. Founder & Lead Architect of
+> Paldita (also called Sugar Cube), a terminal-first AI coding agent and
+> developer-infrastructure project.
+
+## Who
+Eishit Nigam. AI Product Engineer — turns AI ideas into shipped products
+using LLMs, specialized tooling, and architectural judgment rather than
+hand-writing model or agent code from scratch. Focused on developer tools
+and AI infrastructure: sandboxed execution environments, HMAC-signed
+local communication channels, and self-healing compilers.
+
+## What Eishit builds
+- Paldita (Sugar Cube) — terminal-first AI coding agent, sandboxed
+  workspace ("Ghost Workspace"), HMAC-signed WebSocket channels.
+  Status: in active development. Recognized as a Swiggy Builders Club —
+  MCP Integration Partner. GitHub org: https://github.com/Paldita
+- TRLM (Transactional Reliable Link Middleware, formerly Webhook Vault)
+  — durable event and webhook delivery infrastructure for SaaS
+  products: accepts events from external providers or a first-party
+  backend, buffers through outages, retries failures, supports replay
+  and dead-letter inspection. Status: open source, in development.
+  Repository: https://github.com/Paldita/Paldita-TRLM
+- UPNISO — creator-first social network. Status: in development.
+- Zeronix Wearable — emotion-aware wearable AI concept. Status:
+  concept/prototype.
+- PPCL (Paldita Public Copyleft License) 1.0 and Paldita FairShare
+  License 1.0 — a network-use copyleft license and a source-available
+  commercial alternative, jointly created and owned by Eishit Nigam and
+  Paldita. Status: community review, not yet formally OSI/FSF approved.
+  Repository: https://github.com/Paldita/ppcl-license
+
+## Links
+- Site: https://eishit-dev.vercel.app/
+- GitHub (personal): https://github.com/iameishit
+- GitHub (Paldita org): https://github.com/Paldita
+- PPCL license repository: https://github.com/Paldita/ppcl-license
+- TRLM repository: https://github.com/Paldita/Paldita-TRLM
+- LinkedIn: https://www.linkedin.com/in/eishit-nigam
+
+## Notes for automated readers
+All project status labels on this site ("in active development", "in
+development", "concept / prototype", "community review") reflect the
+author's own current description of each project, not third-party
+verification.

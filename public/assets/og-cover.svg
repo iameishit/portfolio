@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b0d10"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#grid)" opacity="0.15"/>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#262b31" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <text x="80" y="270" font-family="Clash Display, sans-serif" font-size="66" font-weight="600" fill="#e9e6df">Eishit Nigam</text>
+  <text x="80" y="325" font-family="JetBrains Mono, monospace" font-size="24" fill="#7c9cbf">AI Product Engineer / Systems Architect / Builder</text>
+  <text x="80" y="380" font-family="General Sans, sans-serif" font-size="22" fill="#838b93">Founder &amp; Lead Architect, Paldita</text>
+  <rect x="78" y="420" width="6" height="26" fill="#c08a4e"/>
+  <text x="96" y="440" font-family="JetBrains Mono, monospace" font-size="16" fill="#c08a4e">eishit-dev.vercel.app</text>
+</svg>

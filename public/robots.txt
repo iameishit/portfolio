@@ -1,0 +1,10 @@
+# https://eishit-dev.vercel.app/robots.txt
+# This is a single-page portfolio (all sections are anchors on /).
+# Legitimate search and AI crawlers are allowed by default. Nothing here
+# forces AI systems to index or cite this site — robots.txt only controls
+# crawl permission, not ranking or citation behavior.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://eishit-dev.vercel.app/sitemap.xml
